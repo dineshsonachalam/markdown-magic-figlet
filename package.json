@@ -27,7 +27,7 @@
   "dependencies": {
     "figlet": "1.x",
     "find-root": "1.x",
-    "lodash": "4.x"
+    "lodash": "4.17.20"
   },
   "devDependencies": {
     "markdown-magic": "0.1.25"
